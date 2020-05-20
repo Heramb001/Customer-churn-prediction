@@ -1,0 +1,3 @@
+#--- ignore the redundant files
+/Data/*
+/input/*
